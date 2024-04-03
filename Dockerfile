@@ -1,1 +1,1 @@
-FROM jrembold/web2b
+FROM jrembold/web2db
